@@ -1,0 +1,3 @@
+Abra o arquivo Criando DB no diretório Banco/CriandoDB.txt
+E depois os arquivos da pasta funcionaram normalmente.
+
